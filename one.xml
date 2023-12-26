@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <foodlist>
-    <fooditem>
+  <fooditem type="italian">
         <name>pizza</name>
         <cost>$2</cost>
     </fooditem>
 
-    <fooditem>
+    <fooditem type="italian">
         <name>burger</name>
         <cost>$5</cost>
     </fooditem>
 
-    <fooditem>
+    <fooditem type="pathan">
         <name>fries</name>
         <cost>$1</cost>
     </fooditem>
 
-    <fooditem>
+    <fooditem type="pakistani">
         <name>biryani</name>
         <cost>$8</cost>
     </fooditem>
